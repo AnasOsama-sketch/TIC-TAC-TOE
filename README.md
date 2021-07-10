@@ -5,7 +5,9 @@ This is a game I've created with python and I thought it would be good to share 
 Controls:
 ---------
 
-Player 1 (X) : w for up,
+Player 1 (X) : 
+               
+               w for up,
                
                s for down,
                
@@ -14,7 +16,9 @@ Player 1 (X) : w for up,
                d for right.
                
 
-Player 2 (O) : i for up,
+Player 2 (O) : 
+               
+               i for up,
                
                k for down,
                
