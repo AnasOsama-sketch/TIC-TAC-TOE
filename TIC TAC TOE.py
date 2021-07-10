@@ -179,3 +179,6 @@ def game_loop(row, column, turn):
             
 create_grid(x, y)
 game_loop(row, column, turn)
+
+while True:
+    c = input()
